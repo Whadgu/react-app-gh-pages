@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app-gh-pages/static/css/main.0dd2b0cb.chunk.css",
+    "main.js": "/react-app-gh-pages/static/js/main.ca284477.chunk.js",
+    "main.js.map": "/react-app-gh-pages/static/js/main.ca284477.chunk.js.map",
+    "runtime-main.js": "/react-app-gh-pages/static/js/runtime-main.6a9a2d6a.js",
+    "runtime-main.js.map": "/react-app-gh-pages/static/js/runtime-main.6a9a2d6a.js.map",
+    "static/js/2.01600045.chunk.js": "/react-app-gh-pages/static/js/2.01600045.chunk.js",
+    "static/js/2.01600045.chunk.js.map": "/react-app-gh-pages/static/js/2.01600045.chunk.js.map",
+    "static/js/3.c7b5ee67.chunk.js": "/react-app-gh-pages/static/js/3.c7b5ee67.chunk.js",
+    "static/js/3.c7b5ee67.chunk.js.map": "/react-app-gh-pages/static/js/3.c7b5ee67.chunk.js.map",
+    "index.html": "/react-app-gh-pages/index.html",
+    "static/css/main.0dd2b0cb.chunk.css.map": "/react-app-gh-pages/static/css/main.0dd2b0cb.chunk.css.map",
+    "static/js/2.01600045.chunk.js.LICENSE.txt": "/react-app-gh-pages/static/js/2.01600045.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-app-gh-pages/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a9a2d6a.js",
+    "static/js/2.01600045.chunk.js",
+    "static/css/main.0dd2b0cb.chunk.css",
+    "static/js/main.ca284477.chunk.js"
+  ]
+}
